@@ -1,0 +1,241 @@
+@media screen and (max-width:640px) {
+    .new{
+        width: 30%;
+    }
+    .new2{
+        width: 100%;
+        height: 100%;
+    }
+    .new3{
+        height: 400px;
+        width: 70%;
+    }
+    .nav{
+        width: 70%;
+    }
+    .new1{
+        width: 43%;
+        height: 50px;
+        margin-left: -80px;
+        margin-top: 40px;
+    }
+    
+    /* .new1:hover{
+        transition-duration: 0.5s;
+        width: auto;
+        background-color: black;
+        color: white;
+    } */
+    .nav ul{
+        width: 20%;
+        display: inline;
+        margin: 10px;
+    }
+    .li{
+        display: inline-block;
+        height: 10px;
+    }
+    .h{
+        /* height: 10px; */
+        width: auto;
+        /* padding-top: 10px; */
+    }
+    .icons{
+        width: 70%;
+        background-color: transparent;
+    }
+    .icons:hover{
+        background-color: transparent;
+    }
+    .icons i:hover{
+        color: #FCA817;
+    }
+    .but{
+        margin-top: 10px;
+        width: 30%;
+        margin-left: 100px;
+    }
+    .bt1{
+        width: 30%;
+        margin-left: 10px;
+    }
+    .new4{
+        margin-top: 30px;
+        width: auto;
+        margin-left: 120px;
+    }
+    .main2{
+        width: 100%;
+    }
+    .main2 h1{
+        margin-left: -200px;
+    }
+    .cards{
+        width: 30%;
+        height: 170px;
+    }
+    .main3{
+        width: auto;
+        height: 800px;
+        background: rgba(0, 0, 0, 0.807);
+    }
+    .main3 .cards1{
+        width: auto;
+        /* height: auto; */
+        display: block;
+        margin-left: 100px;
+        margin-top: 20px;
+    }
+    .main3 .c1{
+        display: block;
+        width: auto;
+        margin-top:40px;
+    }
+    .main4{
+        width: 50%;
+        margin-left: 130px;
+    }
+    .new7{
+        width: 28%;
+        margin-top: 130px;
+        margin-left: 200px;
+    }
+    .new8{
+        width: 80%;
+        height: 450px;
+        margin-top: 40px;
+        margin-left: 50px;
+    }
+    .new9{
+        width: 80%;
+        height: 450px;
+        margin-top: 40px;
+        margin-left: 50px;
+    }
+    .new10{
+        margin: 20px auto;
+        width: 20%;
+        height: 120px;
+    }
+    .new12{
+        margin-top: 280px;
+        margin-left: 55px;
+    }
+    .new12 h2{
+        width: 270%;
+    }
+    .new12 h3{
+        width: 270%;
+    }
+    .new12 p{
+        width: 330%;
+    }
+    .new13{
+        margin-left: 100px;
+        width: 40%;
+    }
+    .n13{
+        margin-top: 2px;
+    }
+    .main5{
+        width: 90%;
+        margin-left: 40px;
+        margin-top: 50px;
+    }
+    .main6{
+        width: 80%;
+        margin: auto;
+    }
+    .new14{
+        width: 20%;
+    }
+    .main7{
+        width: 80%;
+        margin: 730px -680px;
+    }
+    .new15{
+        width: 20%;
+    }
+    .main8{
+        width: 80%;
+        margin-top: -920px;
+        margin-left: -40px;
+    }
+    .new16{
+        width: 20%;
+    }
+    .main9{
+        width: 80%;
+        margin-top: 380px;
+        margin-left: -360px;
+    }
+    .new17{
+        width: 20%;
+    }
+    .main10{
+        margin-top: 580px;
+        margin-left: -680px;
+        width: 80%;
+    }
+    .new18{
+        width: 20%;
+    }
+    .main11{
+        margin-left: 210px;
+        width: 30%;
+    }
+    .main12{
+        width: 100%;
+        height: 700px;
+    }
+    .new19 h1{
+        width: 100%;
+        font-size: 35px;
+        margin-top: -200px;
+    }
+    .new19 p{
+        width: 100%;
+        font-size: 15px;
+        margin-top: 20px;
+    }
+    .new20{
+        margin-left: -100%;
+    }
+    .new21{
+        margin-left: -340px;
+        margin-top: -300px;
+        width: 23%;
+    }
+    .main13{
+        display: block;
+    }
+    .new22{
+        width: 80%;
+        margin-left: 50px;
+        font-weight: bold;
+    }
+    .new23{
+        width: 35%;
+        margin-left: 5px;
+    }
+    .n22{
+        width: 100%;
+        height: 500px;
+        margin-top: -200px;
+    }
+    .a2{
+        margin-top: 100px;
+        height: 500px;
+    }
+    .main14{
+        display: block;
+    }
+    .main14 .n22{
+        margin-top: 1000px;
+    }
+    .a3{
+        margin-top: -2500px;
+    }
+
+
+}
